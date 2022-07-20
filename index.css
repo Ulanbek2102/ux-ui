@@ -1,0 +1,803 @@
+.container{
+background: black;
+    width: 1140px;
+    margin: 0 auto;
+}
+body{
+background: black;
+
+    background-size: 100%;
+}
+
+
+
+.rod{
+    margin-top: 30px;
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    width: 900px;
+    height: 62px;
+    border-radius: 12px;
+    background: black;
+    border: 2px solid darkred;
+}
+.img1{
+    width: 100px;
+    height: 30px;
+}
+.text{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+
+}
+.ash{
+    text-decoration: none;
+    margin: 20px;
+    width: 64px;
+    height: 17px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 17px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 209px;
+    height: 30px;
+    border: 2px solid #FFFFFF;
+    border-radius: 7px;
+}
+.number{
+    width: 179px;
+    height: 29px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+#sec1{}
+
+.rod2{
+background: url("./img/Ellipse 9.png") no-repeat center ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.ux{
+    width: 500px;
+    height: 150px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 650;
+    font-size: 120px;
+    line-height: 150px;
+    /* identical to box height */
+
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+.sysyk{
+    margin-top: -100px;
+    width: 200px;
+    height: 2px;
+    background: darkred;
+}
+.ash2{
+    width: 487px;
+    height: 35px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 35px;
+    /* identical to box height */
+
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+.btn3{
+    width: 155px;
+    height: 35px;
+    background: #FFFFFF;
+    border-radius: 27px;
+    border: none;
+}
+.btn2{
+    text-decoration: none;
+    width: 100px;
+    height: 14px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 650;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+
+    letter-spacing: 0.065em;
+
+    color: #000000;
+}
+.prg1{
+    width: 698px;
+    height: 87px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+#sec2{
+
+}
+.rod3{
+    margin-top: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sysyk2{
+    margin-top: -100px;
+    width: 200px;
+    height: 2px;
+    background: darkred;
+}
+.onas{
+    margin-top: 5px;
+    width: 121px;
+    height: 48px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 42px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+.prg2{
+    width: 1000px;
+    height: 95px;
+
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+
+
+}
+.rod3{
+
+}
+.ash03{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.rod4{
+display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ash3{
+    margin-top: 25px;
+    text-decoration: none;
+    width: 74px;
+    height: 25px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    /* identical to box height */
+
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+
+}
+.sysyk3{
+
+    width: 100px;
+    height: 2px;
+    background: darkred;
+}
+.rod5{
+    margin-top: 200px;
+display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.rod6{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.rediz{
+    width: 163px;
+    height: 36px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+.prg3{
+    width: 500px;
+    height: 88px;
+
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+.btn4{
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 170px;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 27px;
+    border: none;
+}
+.btnb{
+    margin-top: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ssylka{
+    text-decoration: none;
+    width: 120px;
+    height: 15px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: 0.065em;
+
+    color: #000000;
+}
+.rod7{
+    margin-top: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sysyk4{
+     margin-top: -100px;
+     width: 250px;
+     height: 2px;
+     background: darkred;
+ }
+
+.onasa{
+    height: 48px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 42px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+.rod02{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.rod002{
+    margin-top: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.rod123{
+    height: 578px;
+    margin-top: -150px;
+    margin-left: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.picKyzyl{
+
+position: absolute;
+   margin-left: 220px;
+    width: 700px;
+    height: 700px;
+}
+.picKyzyl1{
+    margin-top: -90px;
+    position: absolute;
+    margin-left: -350px;
+    width: 700px;
+    height: 700px;
+}
+.img001{
+
+    margin-left: 330px;
+    position: absolute;
+    width: 360px;
+    height: 360px;
+}
+.img0011{
+    margin-top: -90px;
+    margin-left: -300px;
+    position: absolute;
+    width: 360px;
+    height: 360px;
+}
+.rod03 {
+    margin-left: -550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.rod003{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+
+
+
+
+
+
+
+.img2{
+
+    width: 415px;
+    height: 378px;
+}
+.text2{
+    width: 500px;
+    height: 60px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+.ssylka2{
+    text-decoration: none;
+}
+.btn5{
+    cursor: pointer;
+    margin-top: 30px;
+    width: 200px;
+    height: 53px;
+    background: #FF0000;
+    border-radius: 51px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+
+
+.rod04{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sysyk5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -100px;
+    width: 200px;
+    height: 2px;
+    background: darkred;
+}
+.onasav{
+    margin-top: 5px;
+    width: 127px;
+    height: 48px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 42px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+
+
+
+
+.swiper {
+    border-radius: 15px;
+    width: 900px;
+    height: 350px;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 16px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    -webkit-justify-content: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    border: 5px solid #FF0000;
+    border-radius: 20px;
+    display: block;
+    width: 90%;
+    height: 95%;
+    object-fit: cover;
+}
+.sysyk6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -100px;
+    width: 550px;
+    height: 2px;
+    background: darkred;
+}
+.onasava{
+    margin-top: 5px;
+    width: 500px;
+    height: 48px;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 42px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+
+}
+.rod05{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.imya{
+
+    width: 60px;
+    height: 19px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+.text3{
+    margin-top: 5px;
+    width: 300px;
+    height: 35px;
+    background: #FFFFFF;
+    border: 2px solid darkred;
+    border-radius: 5px;
+}
+.rod005{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+}
+.dive{
+    display: flex;
+flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.imyan{
+margin-left: 20px;
+    width: 280px;
+    height: 19px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: start;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+.text4{
+    margin-top: 5px;
+    width: 730px;
+    height: 100px;
+    background: #FFFFFF;
+    border: 2px solid darkred;
+    border-radius: 5px;
+}
+.nomer{
+
+}
+.rod06{
+display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+
+}
+.otvetit{
+    width: 120px;
+    height: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+
+}
+.clradio{
+    width: 100px;
+    height: 19px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #FFFFFF;
+}
+.btnRadio{
+    width: 700px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.btn02{
+    cursor: pointer;
+    width: 180px;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 7px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 388;
+    font-size: 16px;
+    line-height: 19px;
+    /* identical to box height */
+
+    text-align: center;
+    letter-spacing: 0.065em;
+
+    color: #000000;
+}
+.pic1{
+    width: 770px;
+    height: 500px;
+position: absolute;
+ margin-left: 200px;
+
+
+}
+.pic2{
+    position: absolute;
+    width: 320px;
+    height: 400px;
+    margin-left: -410px;
+    margin-top: 150px;
+
+}
+.pic3{
+    position: absolute;
+   margin-top: 120px;
+    margin-left: 296px;
+    width: 550px;
+    height: 440px;
+
+}
+.pic4{
+    margin-top: -200px;
+    position: absolute;
+    width: 500px;
+    height: 620px;
+
+
+}
+.pic5{
+    margin-top: -200px;
+    position: absolute;
+    margin-left: 590px;
+    width: 550px;
+    height: 620px;
+}
+.pic6{
+    margin-top: -200px;
+    position: absolute;
+    width: 500px;
+    height: 620px;
+
+}
+.pic7{
+    margin-top: -200px;
+    position: absolute;
+    margin-left: 590px;
+    width: 550px;
+    height: 620px;
+}
+
+@media (max-width: 992px) {
+.container{
+    width: 992px;
+}
+    .prg2{
+        width: 992px;
+    }
+    .prg3{
+        width: 480px;
+    }
+    .rod{
+        margin-left: 40px;
+    }
+    .pic2{
+        margin-left: -336px;
+    }
+    .pic3{
+        margin-left: 221px;
+    }
+    .pic4{
+    }
+    .pic5{
+        margin-left: 440px;
+    }
+    .pic7{
+        margin-left: 440px;
+    }
+    .picKyzyl{
+        margin-left: 150px;
+    }
+    .picKyzyl1{
+        margin-left: -240px;
+    }
+    .img001{
+        margin-left: 280px;
+    }
+    .text2{
+        width: 460px;
+    }
+    .pic1{
+        margin-left: 120px;
+    }
+
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+
+}
+@media (max-width: 450px) {
+
+}
+@media (max-width: 420px) {
+
+}
+@media (max-width: 400px) {
+
+}
+@media (max-width: 380px) {
+
+}
+@media (max-width: 360px) {
+
+}
+@media (max-width: 320px) {
+
+}
